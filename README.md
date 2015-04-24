@@ -1,0 +1,2 @@
+# Openbox-Config
+Openbox Configuration
